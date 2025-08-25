@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Vinicius Teixeira Degelo  
 
-<!--
-**ViniciusDegelo/ViniciusDegelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Business Intelligence | Desenvolvimento | Dados**  
+🎯 Focado em BI, automações em Python, integração de APIs e desenvolvimento web.  
+🚀 Atualmente trainee em Business Intelligence na **Hand GC**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens:** Python, SQL, Java, JavaScript  
+- **Dados & BI:** Power BI, DAX, M, Pandas, Excel Avançado  
+- **Web & APIs:** Flask, FastAPI, JSP/Servlets, HTML, CSS, JS  
+- **Banco de Dados:** Oracle, MySQL, PostgreSQL  
+- **Ferramentas:** Git/GitHub, Docker, AWS (básico), VS Code  
+
+---
+
+## 📊 Projetos em Destaque
+🔹 Em desenvolvimento
+
+---
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Conecte-se comigo
+- [LinkedIn]([https://www.linkedin.com/in/vinicius-degelo](https://www.linkedin.com/in/vinicius-degelo/)  
+- [Portfólio](Em desenvolvimento)  
+- 📩 **viniciusdegelo007@gmail.com**
+
